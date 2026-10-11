@@ -1,4 +1,4 @@
-# Task11-NumPy-Vectorization-and-Broadcasting
+
 {
 
   "nbformat": 4,
